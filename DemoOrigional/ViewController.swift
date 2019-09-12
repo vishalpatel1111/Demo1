@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        print("This is first branch text12")
+        print("This is first clone text ")
     }
 
 
