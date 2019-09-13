@@ -13,8 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        print("This is first clone text ")
+        print("Git folder: first time after ignored DS_Store and UserInterfaceState.xcuserstate files")
     }
 
 
